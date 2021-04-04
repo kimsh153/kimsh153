@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 -->
 [![Unity](https://img.shields.io/badge/Unity-black?style=flat-square&logo=Unity&link=https://simpleicons.org/icons/unity.svg/)](https://unity.com/kr) [![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white&link=https://simpleicons.org/icons/c.svg)](https://replit.com/)
 
-[![Sunghun Kim's GitHub stats](https://github-readme-stats.vercel.app/api?username=kimsh153&theme=chartreuse-dark&show_icons=true)](https://github.com/kimsh153/github-readme-stats)
+[![Sunghun Kim's GitHub stats](https://github-readme-stats.vercel.app/api?username=kimsh153&theme=chartreuse-dark&show_icons=true)](https://github.com/kimsh153)
