@@ -19,6 +19,3 @@ Here are some ideas to get you started:
 [![Sunghun Kim's GitHub stats](https://github-readme-stats.vercel.app/api?username=kimsh153&theme=chartreuse-dark&show_icons=true)](https://github.com/kimsh153)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kimsh153)](https://github.com/kimsh153)
-
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=kimsh153)](https://github.com/kimsh153)
-
