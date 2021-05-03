@@ -1,21 +1,12 @@
-### Hi there 👋
+<h1 align="center">Hi 👋, I'm Sunghun</h1>
+<h3 align="center">This is my githubsite</h3>
 
-<!--
-**kimsh153/kimsh153** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🌱 I’m currently learning **Python**
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-[![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white&link=https://simpleicons.org/icons/c.svg)](https://replit.com/) [![JAVA](https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&link=https://https://sipleicons.org/icons/Java.svg)](https://www.oracle.com/kr/java/) [![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white&link=https://simpleicons.org/icons/python.svg)](https://www.python.org/)
+<h3 align="center">Languages and Tools:</h3>
+<p align="center"> <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
-[![Sunghun Kim's GitHub stats](https://github-readme-stats.vercel.app/api?username=kimsh153&theme=chartreuse-dark&show_icons=true)](https://github.com/kimsh153)
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sunghunkim&show_icons=true&locale=en" alt="sunghunkim" /></p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kimsh153)](https://github.com/kimsh153)
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sunghunkim&" alt="sunghunkim" /></p>
