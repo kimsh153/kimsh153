@@ -1,5 +1,5 @@
-<div align="center">
-  <h1>Hi 👋, I'm Sunghun</h1>
+
+  <h1 align="center">Hi 👋, I'm Sunghun</h1>
   <h3>This is my githubsite</h3>
 
   🌱 I’m currently learning **Python**
@@ -14,4 +14,3 @@
 <h3>StreakStats:</h3>
   <p>&nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kimsh153&" alt="SunghunKim" /></p>
   
-  </div>
