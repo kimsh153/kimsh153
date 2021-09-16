@@ -10,5 +10,4 @@
 
 ![TOP Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kimsh153&hide=jupyter%20notebook&layout=compact&thema=merko)
 ![kimsh153's github stats](https://github-readme-stats.vercel.app/api?username=kimsh153&theme=chartreuse-dark&show_icons=true)
-![hyp3rflow's solved.ac stats](https://github-readme-solvedac.hyp3rflow.vercel.app/api/?handle=kimsh153)
   
