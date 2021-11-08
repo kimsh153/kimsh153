@@ -2,7 +2,7 @@
   <h1 align="center">Hi 👋, I'm Sunghun</h1>
   <h3>This is my githubsite</h3>
 
-   - 🌱 I’m currently learning **iOS**
+   - 🌱 I’m currently learning **Swift**
 
 
 <h3 align="left">Language :</h3>
